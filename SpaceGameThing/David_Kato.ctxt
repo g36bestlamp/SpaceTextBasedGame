@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=David_Kato
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ David_Kato\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ FirstChoice()
+comment2.params=milliseconds
+comment2.target=void\ wait(int)
+numComments=3
